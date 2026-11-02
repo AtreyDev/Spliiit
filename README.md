@@ -38,6 +38,10 @@ Spliit is a free and open source alternative to Splitwise. You can either use th
 The project is open to contributions. Feel free to open an issue or even a pull-request! 
 Join the discussion in [the Spliit Discord server](https://discord.gg/YSyVXbwvSY).
 
+### Contributor
+
+- [Atrey Dev Pandey](https://github.com/AtreyDev)
+
 ### Contribute financially
 
 Spliit is free, open source, and has no ads. Hosting, database and API costs are
